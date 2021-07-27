@@ -1,0 +1,1 @@
+This is the beginning of a personal cheatsheet for documentation, answers to common problems I arrive at when working, and other useful information that will allow me to speed up my work flow. 
